@@ -52,6 +52,7 @@
             <option value="horse" >horse</option>
             <option value="zebra" >zebra</option>
             <option value="lion" >lion</option>
+            <option value="tiger" >tiger</option>
         </select>
 
 
