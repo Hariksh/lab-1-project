@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p> begins here</p>
     <form> 
        
         <label for="name">drop your name here  :</label>
